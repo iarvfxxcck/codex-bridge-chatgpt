@@ -6,3 +6,4 @@ dist/
 .env
 *.pyc
 node_modules/
+.cache/
